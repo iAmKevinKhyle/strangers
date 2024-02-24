@@ -1,4 +1,4 @@
-const api = "http://localhost:5000/api/user/delete/";
+const api = "https://stranger-backend-node.onrender.com/api/user/delete/";
 let time_delete;
 let count = 10;
 let cancel;

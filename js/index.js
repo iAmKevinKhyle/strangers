@@ -1,4 +1,4 @@
-const api = "http://localhost:5000/api/user";
+const api = "https://stranger-backend-node.onrender.com/api/user";
 const form = document.querySelector("form");
 
 if (sessionStorage.getItem("_id") !== null) {

@@ -1,6 +1,6 @@
 // api
-const userApi = "http://localhost:5000/api/user";
-const chatApi = "http://localhost:5000/api/chat";
+const userApi = "https://stranger-backend-node.onrender.com/api/user";
+const chatApi = "https://stranger-backend-node.onrender.com/api/chat";
 
 // message body
 const message_body = document.querySelector("div.body");
